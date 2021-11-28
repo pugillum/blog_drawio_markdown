@@ -11,3 +11,7 @@ And how about a bigger diagram?
 A more complex diagram
 
 ![](complex.drawio.svg)
+
+Here's a demo gif:
+
+![](screen_rec.gif)
